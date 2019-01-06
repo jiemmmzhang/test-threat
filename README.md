@@ -1,6 +1,6 @@
 # test-threat
 
-This repository contains the experimental result details of paper "Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness"
+This repository contains the experimental result details of paper "Do Pseudo Test Suites Lead to Inflated Correlation in Measuring Test Effectiveness". The paper is accepted by ICST 2019.
 
 Due to space limit, we put a part of our experimental results in this repository. 
 
